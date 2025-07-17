@@ -1,0 +1,6 @@
+tk
+pillow
+speechrecognition
+pyttsx3
+google-generativeai
+
